@@ -3,7 +3,7 @@
 **Developed By:** Md Ishraq Tanzim
 
 ## Overview
-This project demonstrates the implementation of Convolutional Neural Network (CNN) and a simpler neural network model for image classification using PyTorch. It includes data preprocessing, model training, evaluation, and visualization techniques to effectively classify images and analyze model performance.
+This project demonstrates the implementation of Convolutional Neural Network (CNN) and a simpler neural network model for image classification using PyTorch. It includes data preprocessing, model training, evaluation, and visualization techniques to effectively classify images and analyze model performance. The primary objective is to implement a machine learning model that can classify hand-written digit images taken from the MNIST dataset. The challenge, solved in this project, involves using a limited dataset to learn a classifier that generalizes well to unseen test data. The dataset includes images where the top sub-image acts as a pointer to either the middle or bottom sub-images, which determines the label of the whole image based on the digit displayed in the top sub-image.
 
 ## Features
 - CNN and simple neural network models for image classification.
